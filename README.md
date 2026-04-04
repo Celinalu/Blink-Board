@@ -8,7 +8,6 @@ I made this since it was a fairly straightforward project as someone creating ha
 
 # Fallout Zine
 <img width="1410" height="2000" alt="Blue Pink Cute Memo A5 Document" src="https://github.com/user-attachments/assets/31f01f82-d374-4fc3-95a9-dd9af6969de9" />
-
 # Gallery
  schematic editor
 <img width="1207" height="558" alt="Screenshot 2026-04-03 233409" src="https://github.com/user-attachments/assets/06cb5af5-7a15-4f90-821d-37fe5e4591ab" />
