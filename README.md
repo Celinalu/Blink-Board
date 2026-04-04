@@ -2,7 +2,7 @@
 A flashing carrot blink board!!!
 This carrot will not help your eyesight but will help you see in the dark with it's led lights. This is a pocket-sized, carrot-shaped PBC that uses an oscillator circuit to make LEDs flash. Since I only used transistors and capacitors, there is no code needed for this project.
 
-All you need to do is to connect the blink board to a battery, and then flip the switch to start. If the lights are flicking then that means it's working!
+To use it all you need to do is to connect the blink board to a battery, and then flip the switch to start. If the lights are flicking then that means it's working!
 
 I was motivated  to create this since it was fairly stirghtforward in the sense that there isn't any coding that have to be done. I also wanted to create this because I thought it would look like a really cool keychain.
 
