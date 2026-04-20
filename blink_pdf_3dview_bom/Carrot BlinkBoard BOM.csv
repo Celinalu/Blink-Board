@@ -1,0 +1,13 @@
+Name,,,Purpose,Cost Per Item (CAD),,Quantity,Total price(CAD),Link
+Standard PCB,,,Buliding PCB,2,,1,2,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+Shipping PCB,,,Shpping for PCB,,,,                      ~3,
+Capacitor,,,Buliding PCB,0.15,,1,0.15,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/860020672005/5727088
+3mm LEDs ,,,Buliding PCB,1.44,,1,1.44,https://www.digikey.ca/en/products/detail/liteon/LTL-4231N/214440
+M20-9990246,,,Buliding PCB,0.15,,1,0.15,https://www.digikey.ca/en/products/detail/harwin-inc/M20-9990246/3728226?s=N4IgTCBcDaILJgAwFoCc7FgCwDYQF0BfIA
+K104K10X7RF5UH5,,,Buliding PCB,0.38,,1,0.38,https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K10X7RF5UH5/2356754?s=N4IgTCBcDaINIEYAMAWRSAaB2ASgMQFYBVACQJAF0BfIA
+T93YA503KT20,,,Buliding PCB,2.87,,1,2.87,https://www.digikey.ca/en/products/detail/vishay-sfernice/T93YA503KT20/1587723
+MFR-25FBF52-1K,,,Buliding PCB,0.15,,1,0.15,https://www.digikey.ca/en/products/detail/yageo/MFR-25FBF52-1K/13011
+MFR50SFRF52-470R,,,Buliding PCB,0.15,,1,0.15,https://www.digikey.ca/en/products/detail/yageo/MFR50SFRF52-470R/9150775?s=N4IgTCBcDaILIDEBKBWADAZWQlYC0ALAOxpIgC6AvkA
+CD4017BE,,,Buliding PCB,1.97,,1,1.97,https://www.digikey.ca/en/products/detail/texas-instruments/CD4017BE/67253
+NE555P,,,Buliding PCB,0.79,,1,0.79,https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057
+Shipping (digikey),,,Shpping digikey materials,,,,8,
