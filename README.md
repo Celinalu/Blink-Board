@@ -9,7 +9,8 @@ To use it all you need to do is to connect the blink board to a battery, and the
 I was motivated  to create this since it was fairly stirghtforward in the sense that there isn't any coding that have to be done. I also wanted to create this because I thought it would look like a really cool keychain.
 
 # Fallout Zine
-<img width="1410" height="2000" alt="Blue Pink Cute Memo A5 Document" src="https://github.com/user-attachments/assets/31f01f82-d374-4fc3-95a9-dd9af6969de9" />
+[Carrot Blink Board (1).pdf](https://github.com/user-attachments/files/27127097/Carrot.Blink.Board.1.pdf)
+
 # Gallery
  schematic editor
 <img width="1207" height="558" alt="Screenshot 2026-04-03 233409" src="https://github.com/user-attachments/assets/06cb5af5-7a15-4f90-821d-37fe5e4591ab" />
